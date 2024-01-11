@@ -125,7 +125,7 @@ data/external/
 data/final/
 data/raw/
 data/imgs/
-models/
+
 test/data
 
 # Mac OS-specific storage files
